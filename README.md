@@ -1,7 +1,6 @@
 # Databases - Stanford University
 
-Databases is a set of 14 courses offered by Stanford University which 
-
+Databases is a set of 14 courses offered by Stanford University
 ## Courses
 
 1. Introduction and Relational Database
